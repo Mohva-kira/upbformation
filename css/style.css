@@ -838,7 +838,7 @@ h5.sec-title span {
 .inner-about2 h4 {
     font-size: 2em;
     color: #fff;
-    text-transform: capitalize;
+    text-transform: uppercase;
 }
 
 .inner-about2 p {
@@ -971,7 +971,7 @@ ul.about-list {
 
 .inner-about2 h5 {
     color: #000;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     background: #f7c052;
     display: inline-block;
     padding: 10px 16px;
